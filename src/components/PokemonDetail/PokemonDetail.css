@@ -1,0 +1,56 @@
+
+.pokemonDetailContainer {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 60px;
+}
+
+.pokemonDetailImage {
+  width: 350px;
+  height: 100%;
+}
+
+.pokemonDetailAbout {
+  text-transform: uppercase;
+}
+
+.row {
+  width: 100%;
+}
+
+.colMd6 {
+  float: left;
+  width: 50%;
+}
+
+.attrTitle {
+  color: rgb(50, 75, 183);
+}
+
+.attr {
+  text-transform: capitalize;
+}
+
+.btnVote {
+  background: none;
+  border: none;
+}
+
+.btnTitle {
+  padding-left: 5px;
+  padding-right: 20px;
+}
+
+.btnChoose {
+  width: 100%;
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  border-width: 0;
+  border-color: rgb(50, 75, 183);
+  background-color: rgb(50, 75, 183);
+  color: white;
+  text-transform: uppercase;
+}

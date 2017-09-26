@@ -1,0 +1,36 @@
+
+.pokemonItemLink {
+  text-decoration: none;
+  color: black;
+}
+
+.pokemonItemContainer {
+  width: 250px;
+  padding: 20px;
+}
+
+.pokemonItemContainer:hover {
+  box-shadow: 0 0 10px 0px #c1c1c1;
+}
+
+.pokemonItemAvatar {
+  height: 200px;
+  width: 200px;
+}
+
+.pokemonItemName {
+  display: inline-block; 
+  font-size: 20px;
+  line-height: 30px;  
+  text-transform: capitalize;
+}
+
+.btnVote {
+  float: right;
+  background: none;
+  border: none;
+}
+
+.pokemonItemDescription {
+  line-height: 25px;
+}

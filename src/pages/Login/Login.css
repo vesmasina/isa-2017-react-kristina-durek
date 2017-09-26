@@ -1,0 +1,47 @@
+
+.loginContainer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  flex-direction: column;;
+}
+.formContainer {
+  position: relative;
+  width: 250px;
+}
+.inputText {
+  position: relative;
+  width: 100%;
+  box-sizing: border-box;
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  border-width: 1px;
+  border-color: rgb(50, 75, 183);
+  color: rgb(50, 75, 183);
+}
+.btnLogin {
+  width: 100%;
+  margin-top: 20px;
+  padding: 10px;
+  font-size: 20px;
+  border-radius: 5px;
+  border-width: 0;
+  border-color: rgb(50, 75, 183);
+  background-color: rgb(50, 75, 183);
+  color: white;
+  text-transform: uppercase;
+}
+.btnRegister {
+  width: 100%;
+  margin-top: 15px;
+  padding: 2px;
+  font-size: 16px;
+  border-radius: 5px;
+  border-width: 0px;
+  border-color: white;
+  background-color: white;
+  color: rgb(50, 75, 183);;
+}

@@ -1,0 +1,10 @@
+
+.titleContainer {
+  text-align: center;
+}
+.txtTitle {
+  padding: 10px 20px;
+  font-size: 35px;
+  border-bottom: 5px solid rgb(50, 75, 183);
+  text-transform: capitalize;
+}
